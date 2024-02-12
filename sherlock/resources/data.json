@@ -1,8 +1,8 @@
 {
   "2Dimensions": {
     "errorType": "status_code",
-    "url": "https://2Dimensions.com/a/{}",
-    "urlMain": "https://2Dimensions.com/",
+    "url": "https://tinder.com/member.php?username={}",
+    "urlMain": "https://tinder.com/",
     "username_claimed": "blue"
   },
   "3dnews": {
